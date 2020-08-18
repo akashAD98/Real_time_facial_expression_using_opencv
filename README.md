@@ -12,8 +12,11 @@ inputs of deep leanring model and it will predicts the expressions such as Happy
 I used [fer2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) dataset 
 
 ##  Requirements
-pip install opencv-python==3.4.2.17.
-pip install tensorflow==1.14.0.
-pip install numpy.
+pip install opencv-python==3.4.2.17
+
+pip install tensorflow==1.14.0
+
+pip install numpy
+
 pip install matplotlib.
 
