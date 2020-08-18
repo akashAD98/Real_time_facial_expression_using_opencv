@@ -9,7 +9,7 @@ inputs of deep leanring model and it will predicts the expressions such as Happy
 
 
 ## Dataset
-I used [fer2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) dataset 
+I used [fer2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) dataset which was used in kaggle competition.
 
 ##How to use ??
 
